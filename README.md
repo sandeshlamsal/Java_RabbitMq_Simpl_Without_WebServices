@@ -1,0 +1,1 @@
+# Java_RabbitMq_Simpl_Without_WebServices
